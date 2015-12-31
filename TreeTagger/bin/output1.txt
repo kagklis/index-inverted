@@ -1,0 +1,13 @@
+This	DT	this
+island	NN	island
+is	VBZ	be
+very	RB	very
+beautiful	JJ	beautiful
+.	SENT	.
+The	DT	the
+mountains	NNS	mountain
+look	VVP	look
+very	RB	very
+nice	JJ	nice
+too	RB	too
+.	SENT	.
