@@ -27,7 +27,7 @@ tag_path = path + "\\tagged\\"
 # the list to hold the tokens
 tokens_list=[]
 
-# list of stop word classes
+# list of allowed word classes
 open_class_cat =['JJ','JJR','JJS','NN','NNS','NP','NPS','NNP','NNPS','RB','RBR','RBS','VV','VVD','VVG','VVN','VVP','VVZ','FW']
 
 
